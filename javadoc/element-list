@@ -1,0 +1,6 @@
+module:cat.observadores.gui
+cat.observadores.gui.panel
+Entitites
+Utils
+module:cat.observadores.ui
+cat.observadores.ui.controladora
